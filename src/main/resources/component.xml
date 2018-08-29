@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component code="form_crud_component">
+	<title>Form as CRUD Component</title>
+	<description>Form as CRUD Component</description>
+	<version>1.0.0</version>
+	<category>Store</category>
+	<icon>icon.png</icon>
+	<developerCode>TOTVS</developerCode>
+	<developerName>TOTVS S.A.</developerName>
+	<developerURL>http://www.totvs.com</developerURL>
+</component>

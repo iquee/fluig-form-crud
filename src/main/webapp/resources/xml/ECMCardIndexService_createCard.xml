@@ -1,0 +1,17 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://ws.dm.ecm.technology.totvs.com/">
+	<soapenv:Header/>
+	<soapenv:Body>
+		<ws:createSimpleCardIndexWithDataset>
+			<username />
+			<password />
+			<companyId />
+			<parentDocumentId />
+			<publisherId />
+			<documentDescription />
+			<cardDescription />
+			<datasetName />
+			<Attachments></Attachments>
+			<customEvents></customEvents>
+		</ws:createSimpleCardIndexWithDataset>
+	</soapenv:Body>
+</soapenv:Envelope>

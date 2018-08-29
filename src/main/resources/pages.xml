@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages>
+	<page>
+		<code>formAsCrud</code>		
+		<enabledChildren>false</enabledChildren>
+		<enabledPathParam>false</enabledPathParam>
+		<hidden>false</hidden>
+		<title>Form as CRUD</title>
+		<description>Form as CRUD</description>
+		<theme>themedefault</theme>
+		<layout>layoutsimple</layout>		
+		<editable>false</editable>
+		<auth>1</auth>
+		<internalPage>true</internalPage>
+		<icon>form-crud.png</icon>
+		<slots>
+			<slot>
+				<name>SlotA</name>
+				<widget>formcrud</widget>				
+			</slot>
+		</slots>
+		<permissions>
+			<permission>
+				<code>pageView</code>
+				<description>permission.page.view</description>
+				<role>admin</role>
+			</permission>
+			<permission>
+				<code>pageUpdate</code>
+				<description>permission.page.update</description>
+				<role>admin</role>
+			</permission>
+			<permission>
+				<code>pageRemove</code>
+				<description>permission.page.remove</description>
+				<role>admin</role>
+			</permission>
+		</permissions>
+	</page>
+	
+</pages>

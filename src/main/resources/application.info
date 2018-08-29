@@ -1,0 +1,16 @@
+application.category=SYSTEM
+application.code=formcrud
+application.description=Form as CRUD
+application.icon=icon.png
+application.renderer=freemarker
+application.resource.css.1=/resources/css/formcrud.css
+application.resource.js.2=/resources/js/formcrud.js
+application.resource.js.3=/resources/js/jquery.binarytransport.js
+application.title=Form as CRUD
+application.type=widget
+application.uiwidget=false
+developer.code=TOTVS
+developer.name=TOTVS S.A.
+developer.url=http://www.totvs.com
+edit.file=edit.ftl
+view.file=view.ftl

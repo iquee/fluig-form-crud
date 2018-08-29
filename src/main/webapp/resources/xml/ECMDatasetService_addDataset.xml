@@ -1,0 +1,13 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://ws.dataservice.ecm.technology.totvs.com/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ws:addDataset>
+         <companyId></companyId>
+         <username></username>
+         <password></password>
+         <name></name>
+         <description></description>
+         <impl></impl>
+      </ws:addDataset>
+   </soapenv:Body>
+</soapenv:Envelope>
